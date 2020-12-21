@@ -1,0 +1,93 @@
+C:\Users\Svetoslav\Desktop\New folder-20190323T081627Z-001\New folder\test\test\bin\Debug\netcoreapp2.1\ShoesShop.deps.json
+C:\Users\Svetoslav\Desktop\New folder-20190323T081627Z-001\New folder\test\test\bin\Debug\netcoreapp2.1\ShoesShop.runtimeconfig.json
+C:\Users\Svetoslav\Desktop\New folder-20190323T081627Z-001\New folder\test\test\bin\Debug\netcoreapp2.1\ShoesShop.runtimeconfig.dev.json
+C:\Users\Svetoslav\Desktop\New folder-20190323T081627Z-001\New folder\test\test\bin\Debug\netcoreapp2.1\ShoesShop.dll
+C:\Users\Svetoslav\Desktop\New folder-20190323T081627Z-001\New folder\test\test\bin\Debug\netcoreapp2.1\ShoesShop.pdb
+C:\Users\Svetoslav\Desktop\New folder-20190323T081627Z-001\New folder\test\test\obj\Debug\netcoreapp2.1\ShoesShop.csprojAssemblyReference.cache
+C:\Users\Svetoslav\Desktop\New folder-20190323T081627Z-001\New folder\test\test\obj\Debug\netcoreapp2.1\ShoesShop.csproj.CoreCompileInputs.cache
+C:\Users\Svetoslav\Desktop\New folder-20190323T081627Z-001\New folder\test\test\obj\Debug\netcoreapp2.1\ShoesShop.AssemblyInfoInputs.cache
+C:\Users\Svetoslav\Desktop\New folder-20190323T081627Z-001\New folder\test\test\obj\Debug\netcoreapp2.1\ShoesShop.AssemblyInfo.cs
+C:\Users\Svetoslav\Desktop\New folder-20190323T081627Z-001\New folder\test\test\obj\Debug\netcoreapp2.1\ShoesShop.dll
+C:\Users\Svetoslav\Desktop\New folder-20190323T081627Z-001\New folder\test\test\obj\Debug\netcoreapp2.1\ShoesShop.pdb
+D:\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\appsettings.json
+D:\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.deps.json
+D:\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.runtimeconfig.json
+D:\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.runtimeconfig.dev.json
+D:\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.dll
+D:\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.pdb
+D:\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.Views.dll
+D:\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.Views.pdb
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.csprojAssemblyReference.cache
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.AssemblyInfoInputs.cache
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.AssemblyInfo.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.csproj.CoreCompileInputs.cache
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.RazorAssemblyInfo.cache
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.RazorAssemblyInfo.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.TagHelpers.input.cache
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.TagHelpers.output.cache
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.RazorCoreGenerate.cache
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Home\blog.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Home\shop.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.RazorTargetAssemblyInfo.cache
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.RazorTargetAssemblyInfo.cs
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.Views.pdb
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.dll
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.pdb
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.genruntimeconfig.cache
+D:\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.csproj.CopyComplete
+D:\C#\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\C#\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\appsettings.json
+D:\C#\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\C#\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.deps.json
+D:\C#\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.runtimeconfig.json
+D:\C#\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.runtimeconfig.dev.json
+D:\C#\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.dll
+D:\C#\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.pdb
+D:\C#\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.Views.dll
+D:\C#\SHOESSHOP\test\test\bin\Debug\netcoreapp2.1\ShoesShop.Views.pdb
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.csprojAssemblyReference.cache
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.AssemblyInfoInputs.cache
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.AssemblyInfo.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.csproj.CoreCompileInputs.cache
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.RazorAssemblyInfo.cache
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.RazorAssemblyInfo.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.TagHelpers.input.cache
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.TagHelpers.output.cache
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.RazorCoreGenerate.cache
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Home\blog.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Home\shop.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.RazorTargetAssemblyInfo.cache
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.RazorTargetAssemblyInfo.cs
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.Views.pdb
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.dll
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.pdb
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.genruntimeconfig.cache
+D:\C#\SHOESSHOP\test\test\obj\Debug\netcoreapp2.1\ShoesShop.csproj.CopyComplete
